@@ -11,7 +11,7 @@ A busca em largura pode ser implementada de várias formas. As mais utilizadas s
 <br></br>
 <h2>Entrada</h2>
 
-<p align="center"><img src="DFS/img/Meu Vídeo.gif" width="60%"></p>
+<p align="center"><img src="DFS/img/Meu_Video.gif" width="60%"></p>
 
 
 
