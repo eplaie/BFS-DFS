@@ -49,3 +49,5 @@ A lógica implica em criar uma pilha. Enquanto a pilha não estiver vazia cheia,
 |  `make clean`          | Apaga a última compilação realizada contida na pasta build                                        |
 |  `make`                | Executa a compilação do programa utilizando o gcc, e o resultado vai para a pasta build           |
 |  `make run`            | Executa o programa da pasta build após a realização da compilação                                 |
+
+Autores:[Gabriel Marcondes](https://github.com/DerPestarzt) e [Ygor Vieira](https://github.com/eplaie).
