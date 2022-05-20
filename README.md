@@ -1,4 +1,4 @@
-p# Exercício de Tipo Abstrato de Dados Labirinto - BFS e DFS
+ Exercício de Tipo Abstrato de Dados Labirinto - BFS e DFS
 
 ![Linguagem C](https://img.shields.io/badge/Linguagem-C-green.svg)
 
